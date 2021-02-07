@@ -22,3 +22,4 @@
 |--------|-------------|--------|
 | [Tomas Lingotti](https://www.youtube.com/c/tomaslingotti/featured) | Tutoriales sobre Go y diferentes bibliotecas | Español |
 | [Junmin Lee](https://www.youtube.com/c/JunminLee/featured) | Tutoriales y estructuras de datos con Go | Inglés |
+| [Golandia](https://www.youtube.com/channel/UCFGMvBfgMA5gJlqk0bRVxpQ) | Tutoriales de Go en español | Español |
