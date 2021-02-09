@@ -8,6 +8,7 @@
 | [How To Code in Go eBook](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook) | Introducción a la programación utilizando Go. Conceptos básicos del lenguaje. | Inglés |
 | [The Go Programming Language](https://www.gopl.io/) | Características del lenguaje Go | Inglés |
 | [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/) | Concurrencia y go rutinas | Inglés |
+| Generative Art in Go ([Gunroad](https://gumroad.com/l/generative-art-in-golang)) ([Leanpub](https://leanpub.com/generative-art-in-golang)) | Arte generativo y manejo de imánenes | Inglés |
 
 ## Cursos
 
