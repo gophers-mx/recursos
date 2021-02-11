@@ -16,14 +16,21 @@
 |--------|-------------|--------|
 | [Aprende a programar con go (Golang)](https://www.udemy.com/course/aprende-a-programar-con-go) | Introducción a la programación con el lenguaje Go. | Español |
 | [Unit, integration and functional Testing in Golang (Go)](https://www.udemy.com/course/unit-integration-and-functional-testing-in-golang-go) | Todo sobre pruebas con Go. | Inglés |
+| [Gophercises](https://gophercises.com/) | Aprende características de Go construyendo diferentes programas | Inglés |
 
-## Youtube
+## Youtube (Canales)
 
 | Canal | Descripción | Idioma |
 |--------|-------------|--------|
 | [Tomas Lingotti](https://www.youtube.com/c/tomaslingotti/featured) | Tutoriales sobre Go y diferentes bibliotecas | Español |
 | [Junmin Lee](https://www.youtube.com/c/JunminLee/featured) | Tutoriales y estructuras de datos con Go | Inglés |
 | [Golandia](https://www.youtube.com/channel/UCFGMvBfgMA5gJlqk0bRVxpQ) | Tutoriales de Go en español | Español |
+
+## Youtube (Playlist)
+
+| Nombre | Descripción | Idioma |
+|--------|-------------|--------|
+| [Go Time](https://www.youtube.com/playlist?list=PLCzseuA9sYrf0OJWceitz-LFofzWdGY92) | Podcast sobre el lenguaje de programación Go, en su edición de video. Edición de audio [aquí](https://changelog.com/gotime). | Inglés |
 
 ## Blogs
 
