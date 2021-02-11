@@ -25,6 +25,30 @@
 | [Junmin Lee](https://www.youtube.com/c/JunminLee/featured) | Tutoriales y estructuras de datos con Go | Inglés |
 | [Golandia](https://www.youtube.com/channel/UCFGMvBfgMA5gJlqk0bRVxpQ) | Tutoriales de Go en español | Español |
 
+## Blogs
+
+| Canal | Descripción | Idioma |
+|--------|-------------|--------|
+| [Awebytes](https://awebytes.wordpress.com/) | Tutoriales y documentaciones personales mayormente sobre Go | Español |
+| [Awesome Go](https://www.30secondsofcode.org/go/p/1) | Una lista seleccionada de increíbles frameworks, bibliotecas y software de Go. | Inglés |
+| [Ejemplo de código](https://golang.hotexamples.com/es/) | Buscador de ejemplos de código | Español/Inglés |
+| [Go 101](https://go101.org/) | Detalles, hechos, tips, quizzes, libs, practicas, etc. | Inglés |
+| [Go by Example](https://gobyexample.com/) | Programas de ejemplo anotados | Inglés |
+| [Go cheatsheet](https://tutorialedge.net/course/golang/) | Hoja de referencia de Golang | Inglés |
+| [Go con Ejemplos](http://goconejemplos.com/) | Programas de ejemplo documentados | Español |
+| [Go Snippets](https://www.30secondsofcode.org/go/p/1) | Algunos snippets de uso comun | Inglés |
+| [Go Web Examples](https://gowebexamples.com/) | Fragmentos de código sobre cómo hacer desarrollo web en Go | Inglés |
+| [GoLang Docs](https://golangdocs.com/) | Documentaciones y tutoriales usando Go | Inglés |
+| [Golang programs](https://www.golangprograms.com/) | Tutoriales y ejemplos de referencia | Inglés |
+| [Golang Training](https://github.com/golang/go/wiki/Training) | Github wiki | Inglés |
+| [Golang TutorialEdge](https://tutorialedge.net/course/golang/) | Tutoriales y desafios | Inglés |
+| [Gopher Guides](https://www.gopherguides.com/) | Cursos, guias por expertos en Golang | Inglés |
+| [Gopher Puzzlers](https://talks.godoc.org/github.com/davecheney/presentations/gopher-puzzlers.slide#1) | Cuestionario interactivo para evaluación personal | Inglés |
+| [Learn Go Programming](https://blog.learngoprogramming.com/) | Tutoriales, lecturas y ejercicios | Inglés |
+| [LeetCode](https://leetcode.gin.sh/) | LeetCode de algoritmos con solución en Golang | Inglés |
+| [The acme of foolishness](https://dave.cheney.net/) | Tutoriales y experiencias en Golang de Dave Cheney | Inglés |
+| [WTF Dial](https://wtfdial.com/) | Proyecto de enseñanza en Golang | Inglés |
+
 ## Comunidades
 
 | Nombre | Plataforma |
