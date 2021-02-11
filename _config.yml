@@ -6,4 +6,4 @@ relative_links:
 include:
   - README.md
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-cayman
