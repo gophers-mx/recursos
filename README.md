@@ -9,6 +9,7 @@
 | [The Go Programming Language](https://www.gopl.io/) | Características del lenguaje Go | Inglés |
 | [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/) | Concurrencia y go rutinas | Inglés |
 | Generative Art in Go ([Gunroad](https://gumroad.com/l/generative-art-in-golang)) ([Leanpub](https://leanpub.com/generative-art-in-golang)) | Arte generativo y manejo de imánenes | Inglés |
+| [Black Hat Go: Go Programming for Hackers and Pentesters](https://www.amazon.com.mx/Black-Hat-Go-Programming-Pentesters/dp/1593278659) | Utiliza las particularidades de go para resolver problemas típicos de pentesting, brute force, etc... | Inglés |
 
 ## Cursos
 
