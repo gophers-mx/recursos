@@ -20,11 +20,11 @@
 | [Go Secure Coding Practices](https://checkmarx.gitbooks.io/go-scp) | Web Application Secure Coding Practices es una guía para cualquiera que esté usando el lenguaje de programación Go y tenga el objetivo de usarlo para desarrollo web | Inglés |
 | [Spaceship Go (stdlib journey)](https://blasrodri.github.io/spaceship-go-gh-pages) | Este es un conjuto de notas de mi viaje en una parte de la librería estándar de Go | Inglés |
 
-## Librerías
+## Bibliotecas
 
 | Título | Descripción | Idioma |
 |--------|-------------|--------|
-| [Decimal](https://github.com/shopspring/decimal) | Librería que facilita el manejo de números decimales en Go | Inglés |
+| [Decimal](https://github.com/shopspring/decimal) | Biblioteca que facilita el manejo de números decimales en Go | Inglés |
 
 
 ## Cursos
