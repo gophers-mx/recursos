@@ -20,6 +20,13 @@
 | [Go Secure Coding Practices](https://checkmarx.gitbooks.io/go-scp) | Web Application Secure Coding Practices es una guía para cualquiera que esté usando el lenguaje de programación Go y tenga el objetivo de usarlo para desarrollo web | Inglés |
 | [Spaceship Go (stdlib journey)](https://blasrodri.github.io/spaceship-go-gh-pages) | Este es un conjuto de notas de mi viaje en una parte de la librería estándar de Go | Inglés |
 
+## Bibliotecas
+
+| Título | Descripción | Idioma |
+|--------|-------------|--------|
+| [Decimal](https://github.com/shopspring/decimal) | Biblioteca que facilita el manejo de números decimales en Go | Inglés |
+
+
 ## Cursos
 
 | Título | Descripción | Idioma |
@@ -36,6 +43,7 @@
 | [Junmin Lee](https://www.youtube.com/c/JunminLee/featured) | Tutoriales y estructuras de datos con Go | Inglés |
 | [Golandia](https://www.youtube.com/channel/UCFGMvBfgMA5gJlqk0bRVxpQ) | Tutoriales de Go en español | Español |
 | [justforfunc](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw) | Explorando y aprendiendo Go | Inglés |
+| [Golang Cafe](https://www.youtube.com/channel/UCq4YrlwwXwF74Z3g-VDae2w) | Dominando la librería estándar de Go | Inglés |
 
 ## Youtube (Playlist)
 
