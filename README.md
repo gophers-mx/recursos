@@ -25,6 +25,10 @@
 | Título | Descripción | Idioma |
 |--------|-------------|--------|
 | [Decimal](https://github.com/shopspring/decimal) | Biblioteca que facilita el manejo de números decimales en Go | Inglés |
+| [Fiber](https://github.com/gofiber/fiber) | Fiber es un framework web inspirado en Express (JS). Permite desarrollar servicios web de manera rápida y sencilla. | Inglés |
+| [Goxygen](https://github.com/Shpota/goxygen) | Generador de proyectos web monoliticos. Utilizando Angular, React o Vue como frontend. | Inglés |
+| [Validator](https://github.com/go-playground/validator) | Validador de estructuras a través de sus tags. Permite definir condiciones específicas para cada campo. | Inglés |
+| [Zap](https://github.com/uber-go/zap) | Super logs. Permite generar logs estructurados. | Inglés |
 
 
 ## Cursos
