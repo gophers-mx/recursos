@@ -10,7 +10,6 @@
 | [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/) | Concurrencia y go rutinas | Inglés |
 | Generative Art in Go ([Gunroad](https://gumroad.com/l/generative-art-in-golang)) ([Leanpub](https://leanpub.com/generative-art-in-golang)) | Arte generativo y manejo de imánenes | Inglés |
 | [Black Hat Go: Go Programming for Hackers and Pentesters](https://www.amazon.com.mx/Black-Hat-Go-Programming-Pentesters/dp/1593278659) | Utiliza las particularidades de go para resolver problemas típicos de pentesting, brute force, etc... | Inglés |
-| [Practical Go Lessons](https://www.practical-go-lessons.com/) | Conceptos de Go orientados a practicas utiles con el lenguaje | Inglés |
 
 ## Gitbooks
 
@@ -20,6 +19,7 @@
 | [Golang anti-frameworks](https://thewhitetulip.gitbook.io/bo) | Esta es un tutorial basado en un ejemplo fácil de entender, dirigido a aquellos que sabe un poco de Go y nada de webdev y quieren aprender a escribir un servidor web en Go | Inglés |
 | [Go Secure Coding Practices](https://checkmarx.gitbooks.io/go-scp) | Web Application Secure Coding Practices es una guía para cualquiera que esté usando el lenguaje de programación Go y tenga el objetivo de usarlo para desarrollo web | Inglés |
 | [Spaceship Go (stdlib journey)](https://blasrodri.github.io/spaceship-go-gh-pages) | Este es un conjuto de notas de mi viaje en una parte de la librería estándar de Go | Inglés |
+| [Practical Go Lessons](https://www.practical-go-lessons.com/) | Conceptos de Go orientados a practicas útiles con el lenguaje | Inglés |
 
 ## Bibliotecas
 
