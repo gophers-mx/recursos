@@ -19,6 +19,7 @@
 | [Golang anti-frameworks](https://thewhitetulip.gitbook.io/bo) | Esta es un tutorial basado en un ejemplo fácil de entender, dirigido a aquellos que sabe un poco de Go y nada de webdev y quieren aprender a escribir un servidor web en Go | Inglés |
 | [Go Secure Coding Practices](https://checkmarx.gitbooks.io/go-scp) | Web Application Secure Coding Practices es una guía para cualquiera que esté usando el lenguaje de programación Go y tenga el objetivo de usarlo para desarrollo web | Inglés |
 | [Spaceship Go (stdlib journey)](https://blasrodri.github.io/spaceship-go-gh-pages) | Este es un conjuto de notas de mi viaje en una parte de la librería estándar de Go | Inglés |
+| [Practical Go Lessons](https://www.practical-go-lessons.com/) | Conceptos de Go orientados a practicas útiles con el lenguaje | Inglés |
 
 ## Bibliotecas
 
