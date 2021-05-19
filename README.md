@@ -82,10 +82,10 @@
 
 ## Comunidades
 
-| Nombre | Plataforma |
-|--------|-------------|
-| [Golang - Go MX](https://www.facebook.com/groups/es.golang.mx) | Facebook |
-| [Golang en Español](golang-es.slack.com) | Slack |
-| [Gophers LATAM](https://discord.gg/d67nagU8) | Discord |
-| [gophers🇲🇽mx](https://t.me/golangmx) | Telegram |
-| [@gophersmx](https://twitter.com/gophersmx) | Twitter |
+| Nombre                                                         | Plataforma |
+|----------------------------------------------------------------|------------|
+| [gophers🇲🇽mx](https://t.me/golangmx)                           | Telegram   |
+| [@gophersmx](https://twitter.com/gophersmx)                    | Twitter    |
+| [Gophers LATAM](https://discord.gg/d67nagU8)                   | Discord    |
+| [Golang - Go MX](https://www.facebook.com/groups/es.golang.mx) | Facebook   |
+| [Golang en Español](https://golang-es.slack.com/)              | Slack      |
