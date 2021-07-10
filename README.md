@@ -44,11 +44,12 @@
 
 | Canal | Descripción | Idioma |
 |--------|-------------|--------|
-| [Tomas Lingotti](https://www.youtube.com/c/tomaslingotti/featured) | Tutoriales sobre Go y diferentes bibliotecas | Español |
-| [Junmin Lee](https://www.youtube.com/c/JunminLee/featured) | Tutoriales y estructuras de datos con Go | Inglés |
 | [Golandia](https://www.youtube.com/channel/UCFGMvBfgMA5gJlqk0bRVxpQ) | Tutoriales de Go en español | Español |
-| [justforfunc](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw) | Explorando y aprendiendo Go | Inglés |
 | [Golang Cafe](https://www.youtube.com/channel/UCq4YrlwwXwF74Z3g-VDae2w) | Dominando la librería estándar de Go | Inglés |
+| [Junmin Lee](https://www.youtube.com/c/JunminLee/featured) | Tutoriales y estructuras de datos con Go | Inglés |
+| [Justforfunc](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw) | Explorando y aprendiendo Go | Inglés |
+| [Tomas Lingotti](https://www.youtube.com/c/tomaslingotti/featured) | Tutoriales sobre Go y diferentes bibliotecas | Español |
+| [Tutorial Edge](https://www.youtube.com/channel/UCwFl9Y49sWChrddQTD9QhRA) | Tutoriales sobre el lenguaje, concurrencia, tests, graphql y demás implementaciones con Go | Inglés |
 
 ## Youtube (Playlist)
 
